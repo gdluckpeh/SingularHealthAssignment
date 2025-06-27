@@ -45,7 +45,7 @@ Create an audit event.
 {
   "serviceName": "string",
   "eventType": "string",
-  "payload": "{"key": "value"}"
+  "payload": "{\"key\": \"value\"}"
 }
 ```
 
